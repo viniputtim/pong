@@ -10,7 +10,7 @@
 class MainMenu : public Scene
 {
 private:
-    const char *title_text {"Game"};
+    const char *title_text {"Pong"};
     int title_font_size {80};
     Color title_color {BLACK};
     const char *play_button_text {"Play"};
